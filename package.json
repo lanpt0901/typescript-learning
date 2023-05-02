@@ -1,0 +1,13 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "learn typescript",
+  "main": "index.ts",
+  "repository": "jest --coverage",
+  "author": "lanpt",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "ts-jest": "^29.1.0"
+  }
+}
